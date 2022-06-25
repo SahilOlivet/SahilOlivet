@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
  <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 <h4 align="left">🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors from Birla Institute of Technology - Mesra.</h4>
-<h4 align="left">👨‍💻 I am passionate about mobile Dev, web Dev, node JS & I enjoy learning new things.</h4>
+<h4 align="left">👨‍💻 I am passionate about mobile Dev, web Dev backend frameworks like node JS & I enjoy learning new things.</h4>
 
 
 - 🔭 I’m currently working on **Full stack Mobile Development, Backend for Web Dev & Flutter Development.**
