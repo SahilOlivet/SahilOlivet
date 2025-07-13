@@ -1,46 +1,31 @@
-<!-- ### Hi there 👋 -->
+# 👋 Hi, I'm Sahil Kumar
 
-<!-- 
-**SahilOlivet/SahilOlivet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** with 1.5+ years of experience building scalable and secure web applications at a SaaS company. I specialize in crafting robust backend systems and dynamic frontends using modern technologies like JavaScript, React.js, Node.js, and MongoDB. Passionate about solving complex problems and optimizing performance, I enjoy tackling algorithmic challenges and building user-centric solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📚 About Me
+- 🎓 **B.Tech, Electronics and Communication Engineering**, Birla Institute of Technology, Mesra (CGPA: 9.02)
+- 💼 **Software Developer** | SAAS Based company
+- 🧠 Strong expertise in **Data Structures, Algorithms, OOP, and DBMS**
+- 🏆 Solved **500+ coding problems** on LeetCode and GeeksForGeeks
 
- -->
- 
- 
- <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h4 align="left">🎓 I’m an Open-Source enthusiast & a student pursuing my Bachelors from Birla Institute of Technology - Mesra.</h4>
-<h4 align="left">👨‍💻 I am passionate about mobile Dev, web Dev backend frameworks like node JS & I enjoy learning new things.</h4>
+## 🛠️ Technical Skills
+- **Languages**: TypeScript, JavaScript, Java, C++
+- **Frameworks/Libraries**: React.js, Node.js, Express.js, Redux, MongoDB, Mongoose
+- **Tools/Platforms**: Git, GitHub, VSCode, Redis, Kafka, BullMQ
+- **Domains**: Data Structures & Algorithms, OOP, DBMS, Operating Systems
 
+---
 
-- 🔭 I’m currently working on **Full stack Mobile Development, Backend for Web Dev & Flutter Development.**
+## 📊 GitHub Stats
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilkumar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkumar&layout=compact&theme=radical)
 
-- 👯 I’m looking to collaborate with **Fullstack Mobile, backend Web and Flutter Developers.**
+---
 
-- 🤝 I’m always ready for **Open source Contribution.**
+## 📫 Connect with Me
+- 📧 **Email**: [sahil.kumar.sde@gmail.com](mailto:sahilolivet@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/sahilkumar](https://www.linkedin.com/in/sahil-kumar-b34015213/)
 
-- 💬 Ask me about **JavaScript, Flutter, Node Js**
-
-- 📫 How to reach me **sahilolivet@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil-kumar-b34015213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-kumar-b34015213" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilolivet&show_icons=true&locale=en&layout=compact" alt="sahilolivet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilolivet&show_icons=true&locale=en" alt="sahilolivet" /></p>
- -->
+I'm open to collaborating on innovative projects or discussing opportunities to build impactful solutions. Reach out to me!
