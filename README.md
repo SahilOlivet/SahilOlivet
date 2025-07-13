@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** with 1.5+ years of experience building scalable a
 ---
 
 ## 📫 Connect with Me
-- 📧 **Email**: [sahil.kumar.sde@gmail.com](mailto:sahilolivet@gmail.com)
+- 📧 **Email**: [sahilolivet@gmail.com](mailto:sahilolivet@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/sahilkumar](https://www.linkedin.com/in/sahil-kumar-b34015213/)
 
 I'm open to collaborating on innovative projects or discussing opportunities to build impactful solutions. Reach out to me!
